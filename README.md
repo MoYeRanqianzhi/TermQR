@@ -1,5 +1,5 @@
 # TermQR
-<img src="https://img.shields.io/github/license/MoYeRanqianzhi/TermQRQ" alt="license"> <img src="https://img.shields.io/badge/Python-100%25-orange" alt="use-Python">
+<img src="https://img.shields.io/github/license/MoYeRanqianzhi/TermQRQ" alt="license"> <img src="https://img.shields.io/badge/Python-100%25-orange" alt="Python"> <img src="https://img.shields.io/badge/version-v1.0.1-blueviolet" alt="version">
 
 | 语言 | 功能 | 开源 |
 | ---- | ---- | ---- |
